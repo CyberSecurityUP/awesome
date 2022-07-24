@@ -754,6 +754,7 @@
 - [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
+- [OSCE³](https://github.com/CyberSecurityUP/OSCE-Complete-Guide#readme) - Study guide for OSWE, OSEP and OSED certifications created by Offensive Security
 
 ## Content Management Systems
 
